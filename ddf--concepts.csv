@@ -1,0 +1,5 @@
+concept,name,concept_type
+gdp_per_capita,GDP per capita,measure
+area,Area,entity_domain
+year,Year,time
+name,Name,string
